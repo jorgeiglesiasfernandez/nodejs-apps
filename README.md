@@ -2,6 +2,7 @@
 
 Sample applications using OpenShift Container Platform
 
-- [Implementing an application with multiple microservices in openshift](app-oc-items-front/README.md)
+- [API Express-based server, with a service exposed](app-items-api)
+- [Front end of API access to a database](app-items-front)
 
 ###### Developed by [@_jorgeiglesias](http://jorgeiglesiasf.blogspot.com.es/).
